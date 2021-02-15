@@ -1,0 +1,2 @@
+(this["webpackJsonphistory-vk-mini-app"]=this["webpackJsonphistory-vk-mini-app"]||[]).push([[4],{281:function(i,p,s){"use strict";s.r(p);var t=s(278),a=s(279),n=s(280);t.init(),t.add(a),t.add(n),p.default=t}}]);
+//# sourceMappingURL=4.f391c29f.chunk.js.map
